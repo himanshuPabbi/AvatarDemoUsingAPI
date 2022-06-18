@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi');
 .avatarstyle img
 {
     width: 200px;
@@ -8,6 +9,7 @@
     width:90%;
     height: 100vh;
     margin: auto;
+    font-family: 'Gugi', cursive;
 }
 .mainpage h1
 {
